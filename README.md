@@ -92,6 +92,3 @@ npm run build
 
 1.[vue-echarts](https://github.com/Justineo/vue-echarts)  
 2.[mavonEditor](https://github.com/hinesboy/mavonEditor)  
-
-# License
-
